@@ -1,0 +1,163 @@
+a:28:{s:7:"address";s:0:"";s:16:"copyright_footer";s:49:"Powered by Xerus Systems LLC All Rights Reserved ";s:9:"customcss";s:2417:"/* Hide the after-login slider by default */
+#after-login-slider {
+  display: none;
+}
+
+/* Show the before-login slider when the user is not logged in */
+body:not(.loggedin) #before-login-slider {
+  display: block;
+}
+
+/* Show the after-login slider when the user is logged in */
+body.loggedin #after-login-slider {
+  display: block;
+}
+
+
+
+
+
+
+
+#page-site-index .block_settings {
+   display: block;
+   position: absolute;
+   top: 20px;
+   right: 20px;
+   z-index: 999;
+}
+
+#page-my-index .block_settings {
+   display: none;
+}
+
+
+
+
+
+
+#header .usermenu .login a {
+    color: #fff;
+    background-color: #f0cf08;
+    border-radius: 20px;
+    padding: 10px 20px;
+    font-size: large;
+    font-weight: bold;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+<script type="text/javascript">
+  document.addEventListener('contextmenu', function(e) {
+    e.preventDefault();
+  });
+</script>
+
+
+
+
+
+body {
+    font-family: Century Gothic,Arial,Helvetica,sans-serif;
+    color: var(--color_storm_dust_approx);
+    padding-top: 0;
+    background: var(--white);
+    height: 93%;
+}
+
+
+
+
+
+.main-inner .drawer-toggles .drawer-toggler button {
+    padding: 10px;
+    margin-top: 100%;
+}
+
+
+
+
+
+
+.login-container {
+    background-color: rgba(0,0,0,.125);
+    padding: 3rem;
+    box-shadow: 0 0.5rem 1rem rgba(0,0,0,.15);
+    margin-bottom: 2rem;
+    margin-top: 5%;
+}
+
+
+
+.pagelayout-login #page {
+    background: #f0ad4e;
+    background-image: linear-gradient(to bottom,#64B5F6 0%,#dee2e6 100%);
+    background-repeat: repeat-x;
+}
+
+
+
+
+
+
+#page.drawers {
+    height: auto;
+    padding: 0;
+    margin-top: 7%;
+}
+
+
+.carousel {
+    position: relative;
+    padding-top: 6%;
+}
+
+
+.header-main {
+    background: var(--white);
+    border-bottom: 1px solid var(--color_mercury_approx);
+    padding: 5px 0;
+    margin-top: 70px;
+}
+
+
+
+
+
+nav.navbar .logo img {
+    max-height: 50px;
+}
+
+.navbar.fixed-top {
+    padding-top: 1;
+    padding-bottom: 1;
+    box-shadow: none;
+    border-bottom: #dee2e6 1px solid;
+    align-items: stretch;
+    height: 75px;
+}
+
+.header-main .navbar {
+    max-height: 20px;
+    padding: 0;
+    border-bottom: 0;
+    box-shadow: none;
+}
+
+
+#footer .footer-main {
+    background: #f8f9fa;
+    padding: 30px 0 54px;
+}
+
+.footer-main {
+}
+
+";s:7:"emailid";s:0:"";s:5:"fburl";s:0:"";s:8:"footlogo";s:1:"0";s:8:"footnote";s:0:"";s:5:"gpurl";s:0:"";s:8:"infolink";s:0:"";s:4:"logo";s:11:"/logo f.png";s:14:"numberofslides";s:1:"1";s:7:"phoneno";s:0:"";s:6:"pinurl";s:0:"";s:12:"primarycolor";s:7:"#036CAF";s:14:"secondarycolor";s:7:"#00072D";s:13:"slide1caption";s:0:"";s:10:"slide1desc";s:0:"";s:11:"slide1image";s:22:"/slider_1_1200x418.jpg";s:13:"slide2caption";s:0:"";s:10:"slide2desc";s:0:"";s:11:"slide2image";s:0:"";s:13:"slide3caption";s:0:"";s:10:"slide3desc";s:98:"<p>Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit</p>";s:11:"slide3image";s:0:"";s:16:"themestyleheader";s:1:"1";s:15:"toggleslideshow";s:1:"1";s:5:"twurl";s:0:"";s:7:"version";s:10:"2023011900";}
